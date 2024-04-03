@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Alice",
+    "age": 25,
+    "address": {
+      "street": "null",
+      "city": "Anytown",
+    },
+    "is_student": true,
+    "grades": [85, 90, 92]
+  },
+  {
+    "name": "Bob",
+    "age": 28,
+    "address": {
+      "street": null,
+      "city": "Othertown",
+    },
+    "is_student": false,
+    "grades": [78, 85, 88]
+  },
+  {
+    "name": "Charlie",
+    "age": 23,
+    "address": {
+      "street": "NULL",
+      "city": "Sometown",
+    },
+    "is_student": true,
+    "grades": [92, 95, 98]
+  },
+  {
+    "name": "David",
+    "age": 26,
+    "address": {
+      "street": "Null",
+      "city": "Anothertown",
+    },
+    "is_student": false,
+    "grades": [80, 82, 86]
+  },
+  {
+    "name": "Eve",
+    "age": 24,
+    "address": {
+      "city": "Yetanothertown",
+    },
+    "is_student": true,
+    "grades": [88, 90, 92]
+  },
+]
